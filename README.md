@@ -1,16 +1,38 @@
-# project_01
+# 💊 UMLACare
 
-A new Flutter project.
+**UMLACare** is a mobile app designed to help users manage their medication schedules with ease. Built using Flutter, it provides reminders, history tracking, and a user-friendly interface to ensure no dose is missed.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- ⏰ Schedule and receive medication reminders  
+- 📋 View medication history and adherence  
+- 📱 Simple, intuitive user interface  
+- 🔔 Notifications for upcoming doses  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+Follow these steps to run the app locally:
+
+### 📦 Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Dart SDK
+- Android/iOS emulator or physical device
+
+### 🛠️ Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/robajo1/umlacare.git
+
+# Navigate into the project directory
+cd umlacare
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
